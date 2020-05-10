@@ -1,6 +1,6 @@
 {
     "name": "ng-delete",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "description": "Additional tool for delete components in Angular",
     "scripts": ["ng-delete.sh"],
     "global": "true",
