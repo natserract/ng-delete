@@ -1,5 +1,5 @@
 # ng-delete
-Additional tool for delete components in Angular
+Angular CLI additional tool for delete component in angular
 
 ## Get Started
 ```sh
